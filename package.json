@@ -1,0 +1,23 @@
+{
+  "name": "asis-mvp",
+  "version": "1.0.0",
+  "description": "AlAmer Smart Inventory System",
+  "main": "App.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --passWithNoTests"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "jest": "^29.6.2",
+    "jest-environment-jsdom": "^29.6.2"
+  }
+}
